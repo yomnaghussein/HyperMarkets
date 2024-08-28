@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38561204189",
+    "project_id": "hypermarketmapsapp",
+    "storage_bucket": "hypermarketmapsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38561204189:android:d862a6b4b3a30d97771834",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQRlNW-by1Jk1NOLCkubvAj8uV1aJJbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

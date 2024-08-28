@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HyperMarkets</string>
+    <string name="google_map_api_key">AIzaSyDH0eatEsl32Gn54_4SsUj74SCEXFGFhmM</string>
+    <string name="allow_notification">Allow Notification</string>
+    <string name="allow_notification_message">Please allow notification permission to get updates</string>
+    <string name="ok">OK</string>
+    <string name="not_now">Not Now</string>
+    <string name="notification_not_allowed">Notification not allowed</string>
+    <string name="notification_not_allowed_desc">Notification will not be received</string>
+    <string name="tap_again_to_remove">Tap again to remove</string>
+    <string name="error_finding_place">Error Finding Place</string>
+</resources>
