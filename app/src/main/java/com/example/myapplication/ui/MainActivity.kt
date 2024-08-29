@@ -194,7 +194,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
                 }
             }
             it.setOnMarkerClickListener { marker ->
-                if (it == lastMarkerClicked) {
+                if (marker == lastMarkerClicked) {
                     val addedMarker = listOfMarkers.find { it == marker }
                     marker.remove()
                     addedMarker?.let { listOfMarkers.remove(marker) }
