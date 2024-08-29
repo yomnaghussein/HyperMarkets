@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">HyperMarkets</string>
-    <string name="google_map_api_key">AIzaSyDH0eatEsl32Gn54_4SsUj74SCEXFGFhmM</string>
+    <string name="google_map_api_key">AIzaSyDiC8Oo7Q39KahQnTQT0QFtbsruS2IDKy4</string>
     <string name="allow_notification">Allow Notification</string>
     <string name="allow_notification_message">Please allow notification permission to get updates</string>
     <string name="ok">OK</string>
