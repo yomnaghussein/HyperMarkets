@@ -8,7 +8,7 @@
 - Having the ability to search in other places and setting pins to map.
 - Scheduled push notification is sent everyday @ 9am.
 
-## Techologies used:
+## Technologies used:
  1. Kotlin
  2. MVVM 
  3. ViewModel and Livedata
